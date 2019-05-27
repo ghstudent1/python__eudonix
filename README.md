@@ -1,1 +1,1 @@
-# python__eudonix
+# python__eduonix
